@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+.button{
+    padding: 15px 50px;
+    background-color: transparent;
+    border: 1px solid green;
+    color: #fff;
+    cursor: pointer;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
